@@ -7,6 +7,7 @@ if(Console.ReadLine() == "Fortnite")
 }
 else
 {
-    Console.WriteLine("NO!!");
+    Console.WriteLine("bro what?");
 }
 Console.WriteLine("WTF!!");
+Console.ReadLine();

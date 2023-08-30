@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programering\\Lucktext_Gnome\\Lucktext_Gnome\\Lucktext_Gnome.csproj": {}
+    "c:\\Programering\\Lucktext_Gnome\\Lucktext_Gnome\\Lucktext_Gnome.csproj": {}
   },
   "projects": {
-    "C:\\Programering\\Lucktext_Gnome\\Lucktext_Gnome\\Lucktext_Gnome.csproj": {
+    "c:\\Programering\\Lucktext_Gnome\\Lucktext_Gnome\\Lucktext_Gnome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programering\\Lucktext_Gnome\\Lucktext_Gnome\\Lucktext_Gnome.csproj",
+        "projectUniqueName": "c:\\Programering\\Lucktext_Gnome\\Lucktext_Gnome\\Lucktext_Gnome.csproj",
         "projectName": "Lucktext_Gnome",
-        "projectPath": "C:\\Programering\\Lucktext_Gnome\\Lucktext_Gnome\\Lucktext_Gnome.csproj",
+        "projectPath": "c:\\Programering\\Lucktext_Gnome\\Lucktext_Gnome\\Lucktext_Gnome.csproj",
         "packagesPath": "C:\\Users\\david.trossing\\.nuget\\packages\\",
-        "outputPath": "C:\\Programering\\Lucktext_Gnome\\Lucktext_Gnome\\obj\\",
+        "outputPath": "c:\\Programering\\Lucktext_Gnome\\Lucktext_Gnome\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
