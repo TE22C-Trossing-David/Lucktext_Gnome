@@ -1,0 +1,15 @@
+c:\Programering\Lucktext_Gnome\Lucktext_Gnome\obj\Debug\net6.0\Lucktext_Gnome.csproj.AssemblyReference.cache
+c:\Programering\Lucktext_Gnome\Lucktext_Gnome\obj\Debug\net6.0\Lucktext_Gnome.GeneratedMSBuildEditorConfig.editorconfig
+c:\Programering\Lucktext_Gnome\Lucktext_Gnome\obj\Debug\net6.0\Lucktext_Gnome.AssemblyInfoInputs.cache
+c:\Programering\Lucktext_Gnome\Lucktext_Gnome\obj\Debug\net6.0\Lucktext_Gnome.AssemblyInfo.cs
+c:\Programering\Lucktext_Gnome\Lucktext_Gnome\obj\Debug\net6.0\Lucktext_Gnome.csproj.CoreCompileInputs.cache
+c:\Programering\Lucktext_Gnome\Lucktext_Gnome\bin\Debug\net6.0\Lucktext_Gnome.exe
+c:\Programering\Lucktext_Gnome\Lucktext_Gnome\bin\Debug\net6.0\Lucktext_Gnome.deps.json
+c:\Programering\Lucktext_Gnome\Lucktext_Gnome\bin\Debug\net6.0\Lucktext_Gnome.runtimeconfig.json
+c:\Programering\Lucktext_Gnome\Lucktext_Gnome\bin\Debug\net6.0\Lucktext_Gnome.dll
+c:\Programering\Lucktext_Gnome\Lucktext_Gnome\bin\Debug\net6.0\Lucktext_Gnome.pdb
+c:\Programering\Lucktext_Gnome\Lucktext_Gnome\obj\Debug\net6.0\Lucktext_Gnome.dll
+c:\Programering\Lucktext_Gnome\Lucktext_Gnome\obj\Debug\net6.0\refint\Lucktext_Gnome.dll
+c:\Programering\Lucktext_Gnome\Lucktext_Gnome\obj\Debug\net6.0\Lucktext_Gnome.pdb
+c:\Programering\Lucktext_Gnome\Lucktext_Gnome\obj\Debug\net6.0\Lucktext_Gnome.genruntimeconfig.cache
+c:\Programering\Lucktext_Gnome\Lucktext_Gnome\obj\Debug\net6.0\ref\Lucktext_Gnome.dll
